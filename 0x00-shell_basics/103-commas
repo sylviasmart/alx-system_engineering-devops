@@ -1,2 +1,2 @@
 #!/bin/bash
-file ./, ../, 103-commas file1.c, folder1/ 
+ls -amvp
