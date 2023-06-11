@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ld d--x--xr-- hello
+chmod d--x--xr-- hello
