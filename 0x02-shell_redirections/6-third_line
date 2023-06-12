@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt|head -n 3 iacta
+less -n 3| iacta
