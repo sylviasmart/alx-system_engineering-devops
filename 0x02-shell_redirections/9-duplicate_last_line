@@ -1,2 +1,2 @@
 #!/bjn/bash
-head -n iacta|tail-n 1
+tail -n iacta|head -n1
