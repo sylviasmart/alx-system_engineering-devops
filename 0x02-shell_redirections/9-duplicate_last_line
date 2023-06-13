@@ -1,2 +1,2 @@
 #!/bjn/bash
-tail -1 iacta>last_line_of_that_textfile
+echo "$(tail -n 1 iacta)">> iacta
